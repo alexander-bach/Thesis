@@ -1,6 +1,6 @@
 ## Doctoral Thesis: Empowering Ecological Research by Improving Access and Usability of Biodiversity Data - An Arachnological Perspective
 
-**<a href=https://doi.org/10.18154/RWTH-2023-08502>10.18154/RWTH-2023-08502</a>
+<a href=https://doi.org/10.18154/RWTH-2023-08502>10.18154/RWTH-2023-08502</a>
 
 ### Overview
 
