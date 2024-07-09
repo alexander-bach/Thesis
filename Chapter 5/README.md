@@ -5,12 +5,12 @@ Overview</b>
 
 This repository contains the raw data and R script necessary to reproduce the results presented in Chapter 5 of my doctoral thesis. This chapter investigates the long-term development of spider diversity in field margins within intensively used agricultural landscapes in Western Germany.
 
-Contents
+<i>Contents</i>
 
     Raw Data: The raw vegetation and spider data collected from field margins at two different time points (T0 and T1).
     R Script: An R script that processes the raw data and performs the analyses described in the thesis.
 
-Raw Data
+<i>Raw Data</i>
 
 The raw data files include:
 
