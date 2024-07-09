@@ -1,5 +1,7 @@
 ## Doctoral Thesis: Empowering Ecological Research by Improving Access and Usability of Biodiversity Data - An Arachnological Perspective
 
+**<a href=https://doi.org/10.18154/RWTH-2023-08502>10.18154/RWTH-2023-08502</a>
+
 ### Overview
 
 Welcome to the repository for my doctoral thesis titled "Empowering Ecological Research by Improving Access and Usability of Biodiversity Data - An Arachnological Perspective". This repository is organized by chapters and contains all the raw data, R scripts, and other resources needed to reproduce the results presented in my thesis.
