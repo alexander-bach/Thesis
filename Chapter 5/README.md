@@ -1,7 +1,7 @@
 <b>Chapter 5: Grassy Field Margins Revisited: Long-term Development of Taxonomic and Functional Diversity of Spiders in Intensively Used Agricultural Landscapes in Western Germany
 Overview</b>
 
-<a href=10.18154/RWTH-2023-08502>10.18154/RWTH-2023-08502</a>
+<a href=https://doi.org/10.18154/RWTH-2023-08502>10.18154/RWTH-2023-08502</a>
 
 This repository contains the raw data and R script necessary to reproduce the results presented in Chapter 5 of my doctoral thesis. This chapter investigates the long-term development of spider diversity in field margins within intensively used agricultural landscapes in Western Germany.
 
